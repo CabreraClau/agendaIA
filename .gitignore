@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.sites-runtime/
+.sites-checkout/
+.sites-checkout-*/
+output/
+tmp/
+*.tar.gz
+.env
+.env.*
+!.env.example
